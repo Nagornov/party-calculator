@@ -1,0 +1,5 @@
+var Calculator = (function () {
+    return {
+        
+    }
+}());
