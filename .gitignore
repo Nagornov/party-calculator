@@ -1,0 +1,9 @@
+.idea
+.mvn
+/src/
+node_modules
+target
+dist
+prod
+*.iml
+/mock-ups/*.bmpr
